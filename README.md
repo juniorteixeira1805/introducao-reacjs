@@ -2,46 +2,21 @@
 
 <p align="center">
  <a href="#Description">Description</a> •
- <a href="#GettingStarted">Getting Started</a> • 
  <a href="#Technologies">Technologies</a>
- <a href="#Build">Build</a> •
- <a href="#Features">Features</a> • 
- <a href="#Contributions">Contributions</a> •
  <a href="#License">License</a> • 
  <a href="#Author">Author</a>
 </p>
 
-## **PROJETO DESCONTINUADO**
+>## **PROJETO DESCONTINUADO**
 
 ## Description
 Está é uma pequena aplicação em react.js
 
-## Getting Started
-Para utilizar o projeto, basta clonar o repositório em um diretório de sua preferência com o seguinte comando:
-```
-git clone https://github.com/juniorteixeira1805/node.js-graphql-mongodb
-```
-Para instalar as dependenciasa, raiz da pasta, executar o comando:
-```
-yarn install
-```
-Na raiz do projeto executar o comando
-```
-node src/server.js
-```
-<span><strong>OBS:</strong> Ao executar o projeto, ele estará ouvindo a porta http://localhost:4000</span>
-
 ## Technologies
 - react.js
 
-## Build
-Na raiz do projeto executar o comando
-```
-yarn build
-```
-
 ## License
-Não se aplica.
+MIT License
 
 ## Author
 Feito por Junior Teixeira, entre em contato!
